@@ -1,0 +1,12 @@
+header{
+    background-image: url("../image/pattern.png");
+    /* background-position: top center; */
+    background-color: #4D9DFB;
+    padding-bottom: 2.2rem;
+}
+
+.img__logo{
+    width: 20%;
+    padding: 5% 0 0 12.5%;
+    
+}
