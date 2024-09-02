@@ -1,12 +1,39 @@
+body{
+    font-family: "Outfit", sans-serif;;
+}
+
 header{
     background-image: url("../image/pattern.png");
-    /* background-position: top center; */
     background-color: #4D9DFB;
     padding-bottom: 2.2rem;
 }
 
 .img__logo{
     width: 20%;
-    padding: 5% 0 0 12.5%;
-    
+    padding: 5% 0 0 10%;
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
+    padding: 1rem 9rem 0 9rem;
+}
+
+.subject__title{
+    font-weight: 800;
+    font-size: 4rem;
+}
+
+.subject__paragraph{
+    color: #818181;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.subject__paragraph-weigth{
+    font-weight: 400;
+}
+
+.subject__span-color{
+    color: #20a9e5;
 }
