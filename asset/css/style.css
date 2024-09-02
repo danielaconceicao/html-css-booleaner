@@ -2,6 +2,7 @@ body{
     font-family: "Outfit", sans-serif;
 }
 
+/* header */
 header{
     background-image: url("../image/pattern.png");
     background-color: #4D9DFB;
@@ -13,6 +14,7 @@ header{
     padding: 5% 0 0 10%;
 }
 
+/* main */
 main{
     margin: 0 auto;
     width: 80%;
@@ -55,10 +57,6 @@ main{
 
 .second__image{
     width: 50%;
-}
-
-img{
-    display: block;
 }
 
 .main__section{
@@ -110,7 +108,11 @@ h2{
 
 .last__section{
     position: relative;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
+}
+
+img{
+    display: block;
 }
 
 .last__section__img{
@@ -126,11 +128,9 @@ h2{
 
 .first__text{
     top: 13%;
-    padding-left: .8rem;
 }
 
 .second__text{
-    position: absolute;
     top: 55%;
     bottom: 50%;
 }
