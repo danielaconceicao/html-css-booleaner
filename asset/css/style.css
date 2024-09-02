@@ -1,5 +1,5 @@
 body{
-    font-family: "Outfit", sans-serif;;
+    font-family: "Outfit", sans-serif;
 }
 
 header{
@@ -59,4 +59,69 @@ main{
 
 img{
     display: block;
+}
+
+.main__section{
+    padding-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.main__section p{
+    padding: 1rem 0 2rem 0;
+}
+
+ul{
+    font-weight: 500;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+}
+
+table{
+ margin-bottom: 2rem;
+}
+
+thead{
+    background-color: #4D9DFB;
+}
+
+td{
+    padding: 10px;
+}
+
+th{
+    padding: 10px;
+}
+
+h2{
+    color: #818181;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 1rem 0;
+}
+
+.last__section{
+    position: relative;
+    padding-bottom: 2rem;
+}
+
+.last__section__img{
+    padding-bottom: 1.5rem;
+}
+
+.text{
+    color: #ffff;
+    position: absolute;
+    padding-left: .8rem;
+    font-size: 1.5rem;
+}
+
+.first__text{
+    top: 13%;
+    padding-left: .8rem;
+}
+
+.second__text{
+    position: absolute;
+    top: 55%;
+    bottom: 50%;
 }
