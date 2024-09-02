@@ -32,8 +32,31 @@ main{
 
 .subject__paragraph-weigth{
     font-weight: 400;
+    font-size: 1.3rem;
 }
 
 .subject__span-color{
     color: #20a9e5;
+}
+
+.main__img{
+    padding-top: 3rem;
+}
+
+.main__img p{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.first__image{
+    width: 60%;
+    padding-bottom: 1.3rem;
+}
+
+.second__image{
+    width: 50%;
+}
+
+img{
+    display: block;
 }
