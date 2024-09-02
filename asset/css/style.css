@@ -92,11 +92,13 @@ tr.line{
 
 th{
     padding: 5px;
+    color: #fff;
 } 
 
 td{
     width: 3px;
     vertical-align: middle;
+    font-weight: 500;
 }
 
 h2{
